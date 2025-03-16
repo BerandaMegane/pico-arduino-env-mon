@@ -192,9 +192,9 @@ Fusion 360 (趣味での利用は無償) で編集することができます。
 
 ### コンパイル済みバイナリ
 
-1. [Releases](https://github.com/BerandaMegane/pico-arduino-env-mon/releases) から `pico_arduino_env_mon_x.x.zip` をダウンロードし、展開します。
+1. [Releases](https://github.com/BerandaMegane/pico-arduino-env-mon/releases) から、最新バージョンの `pico_arduino_env_mon.uf2` をダウンロードします。
 2. マイコンを書き込みモードで PC へ接続します。(USBストレージとして認識されます)  
-書き込みモードへの切り替え方法は使用マイコンによって異なります。
+    書き込みモードへの切り替え方法は使用マイコンによって異なります。
     * Raspberry Pi Pico の場合: `BOOT SEL` ボタンを押しながら USBケーブルを接続します。
     * AE-RP2040 の場合: USBケーブルを接続後、`BOOT` ボタンを押しながら、隣の `RUN` ボタンを押します。
 3. `pico-arduino-env-mon.uf2` をマイコンへ書き込みます。
