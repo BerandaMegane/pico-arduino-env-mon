@@ -153,7 +153,7 @@
 |`GPIO22`|`CS`||
 
 ### AE-RP2040 使用時
-![AE-RP2040使用時の接続図](img/connection_AE-RP2040.png)
+![AE-RP2040使用時の接続図](img/connection_AE-RP2040.PNG)
 
 ### Raspberry Pi Pico 使用時（未確認）
 ![Raspberry Pi Pico使用時の接続図](img/connection_PiPico.PNG)
@@ -170,7 +170,7 @@
 
 ### ケースの STL について
 
-[ケース用の STL のサンプル](stl/) を公開しています。2.54mm ピッチのユニバーサル基板を 33穴 ✕ 18穴 にカットし、以下のようにレイアウトする前提の形状になっています。
+[ケース用の STL のサンプル](stl/body.stl) を公開しています。2.54mm ピッチのユニバーサル基板を 33穴 ✕ 18穴 にカットし、以下のようにレイアウトする前提の形状になっています。
 
 ![](img/board_02.jpg)
 

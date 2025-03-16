@@ -1,3 +1,15 @@
+/*
+Copyright (c) 2022 shapoco
+Copyright (c) 2025 BerandaMegane
+Released under the MIT license
+https://opensource.org/licenses/mit-license.php
+
+shapoco 氏の環境モニタ pico-env-mon を参考に製作しました。
+- ReadMe.md を一部流用させていただきました。 
+- グラフ描画処理を参考にさせていただきました。
+- https://github.com/shapoco/pico-env-mon
+*/
+
 // 必要な外部ライブラリ
 // https://github.com/adafruit/Adafruit-GFX-Library
 #include <Adafruit_GFX.h>  // install "Adafruit GFX Library"
